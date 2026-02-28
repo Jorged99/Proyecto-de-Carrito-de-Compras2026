@@ -33,7 +33,7 @@ Se puede visualizar mediante el siguiente enlace de Github Pages: https://jorged
 ## Factura 
 <img width="794" height="892" alt="image" src="https://github.com/user-attachments/assets/fd219b4e-6806-45be-91f8-886e12ba616a" />
 
-## Mobiles
+## Móviles 
 <img width="771" height="1600" alt="image" src="https://github.com/user-attachments/assets/1fa4ce46-1550-40a1-93e0-25b6b7f336b5" />
 <br>
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/dbe48a11-6bd0-4b60-8626-49fb1a6eaa67" />
