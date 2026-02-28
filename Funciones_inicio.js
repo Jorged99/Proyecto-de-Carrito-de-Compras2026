@@ -63,7 +63,7 @@ function renderizarProductos() {
             sizeSelect.appendChild(opt);
         });
 
-        // actualizar disponibilidad al cambiar talla
+        // actualizar disponibilidad al cambiar version
         function updateAvailable() {
             const selected = sizeSelect.value;
             const avail = producto.tallaStock[selected] || 0;
@@ -110,7 +110,7 @@ function renderizarProductos() {
             const modal = bootstrap.Modal.getInstance(modalEl) || new bootstrap.Modal(modalEl);
             modal.hide();
 
-            Swal.fire({ icon: 'success', title: 'Añadido', text: `${cantidad} × ${producto.nombre} (Talla ${selectedSize}) añadido al carrito`, timer: 1400, showConfirmButton: false });
+            Swal.fire({ icon: 'success', title: 'Añadido', text: `${cantidad} × ${producto.nombre} (Version ${selectedSize}) añadido al carrito`, timer: 1400, showConfirmButton: false });
         });
 
         // mostrar modal
@@ -238,5 +238,6 @@ document.addEventListener('DOMContentLoaded', () => {
     renderizarProductos();
     actualizarContadorCarrito();
 });
+
 
 
