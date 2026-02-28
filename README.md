@@ -2,18 +2,4 @@
 
 
 
-## 📋 Contenido del Proyecto
-
-Proyecto de un carrito de compras para articulos tecnologicos. Se hizo el uso de codigo HTML para la estructuracion, tambien se uso **Bootstrap-5.3** para diseño al igual que codigo CSS para elementos mas puntuales como adaptaciones para diferentes resoluciones. Finalmente se uso codigo Javascript para las funcionabilidad el carritos, uso de arrays para simular los datos de los productos, botones para modificar datos y generar factura en formato PDF.
-
-## 🪒🚀 Como ejecutar
-
-El proyecto se puede descargar y abrir con un editor de codigo en local host ya que todo el proyecto contiene lo necesario para ejecutarse.<br> 
-Se puede visualizar mediante el siguiente enlace de Github Pages: https://jorged99.github.io/Proyecto-de-Carrito-de-Compras2026/index.html 
-
-## 🎗️ Integrantes
-* Jorge Alberto Diaz Duran. Carnet: **DD242312** <br>
-* Kevin Antonio Flores Alvarado. Carnet: **FA251339** <br>
-* Oscar Daniel Diaz Hernandez. Carnet: **DH252726** <br>
-* Gabriela Michelle Avendaño Cortez. Carnet: **AC252532** <br>
-* Jeferson Alfredo Romero Rivas. Carnet: **RR222321** <br>
+## version dark del sitio
