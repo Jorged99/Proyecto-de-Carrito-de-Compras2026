@@ -4,7 +4,7 @@
 
 ## 📋 Contenido del Proyecto
 
-Proyecto de un carrito de compras para artículos tecnológicos. Se hizo el uso de código HTML para la estructuración, también se usó **Bootstrap-5.3** para diseño al igual que código CSS para elementos más puntuales como adaptaciones para diferentes resoluciones. Finalmente se usó código Javascript para las funcionalidades del carrito, uso de arrays para simular los datos de los productos, botones para modificar datos y generar factura en formato PDF.
+Proyecto de un carrito de compras para artículos tecnológicos. Se hizo el uso de código HTML para la estructuración, también se usó **Bootstrap-5.3** para diseño al igual que código CSS para elementos más puntuales como adaptaciones para diferentes resoluciones. Finalmente se usó código Javascript para las funcionalidades del carrito, uso de arrays para simular los datos de los productos, botones para modificar datos y generar factura en formato PDF. De igual manera, se trabajo en una version extra (dark mode) que esta alojada en la rama Dark main la cual se dejo como manejo de versiones. 
 
 ## 🪒🚀 Como ejecutar
 
