@@ -17,3 +17,22 @@ Se puede visualizar mediante el siguiente enlace de Github Pages: https://jorged
 * Oscar Daniel Diaz Hernandez. Carnet: **DH252726** <br>
 * Gabriela Michelle Avendaño Cortez. Carnet: **AC252532** <br>
 * Jeferson Alfredo Romero Rivas. Carnet: **RR222321** <br>
+
+## Capturas
+
+## Inicio
+<img width="1908" height="983" alt="image" src="https://github.com/user-attachments/assets/a34b00d8-53a0-4c36-8ebe-138e93ecfcec" />
+
+## Selecion de productos
+
+<img width="1909" height="980" alt="image" src="https://github.com/user-attachments/assets/1bbd450f-2fec-4ffb-b45c-306fbdec00c0" />
+
+## Carrito de Compras
+<img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/8e2ba6c2-bfbe-4d83-9257-aba2e4aae750" />
+
+## Factura 
+<img width="794" height="892" alt="image" src="https://github.com/user-attachments/assets/fd219b4e-6806-45be-91f8-886e12ba616a" />
+
+
+
+
