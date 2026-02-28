@@ -19,24 +19,34 @@
        CARRUSEL RESPONSIVO
     ========================== */
 
+#carouselExampleIndicators {
+     max-width: 1300px;   /* Limita el ancho */
+     margin: 40px auto;  /* Centrado */
+     border-radius: 20px;
+     overflow: hidden;   /* Para que respete bordes redondeados */
+     box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.carousel-item {
+    height: 55vh; 
+    min-height: 220px;
+    max-height: 450px;
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    filter: brightness(0.85); /* Oscurece un poco para texto */
+}
+
+/* Más pequeño en celular */
+@media (max-width: 768px) {
     .carousel-item {
-        height: 60vh; /* Altura relativa a la pantalla */
-        min-height: 250px;
-        max-height: 600px;
+        height: 30vh;
     }
+}
 
-    .carousel-item img {
-        height: 100%;
-        width: 100%;
-        object-fit: cover; 
-    }
-
-    /* Ajuste para celulares o dispositvos con pantallas mas pequeñas */
-    @media (max-width: 768px) {
-        .carousel-item {
-            height: 35vh;
-        }
-    }
 
     /* =========================
        TARJETAS PRODUCTOS
@@ -89,7 +99,7 @@
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-success bg-success ">
+    <nav class="navbar navbar-expand-lg navbar-success bg-dark ">
         <div class="container">
             <a class="navbar-brand text-light fs-3 fw-bold" href="index.html">🛍️ Mercadito sv</a>
             <ul class="navbar-nav ms-auto">
@@ -189,6 +199,7 @@
         </div>
 </body>
 </html>
+
 
 
 
